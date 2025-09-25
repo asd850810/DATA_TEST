@@ -1,0 +1,6 @@
+numpy
+pandas
+pyqtgraph
+scipy
+watchdog
+PyQt5
